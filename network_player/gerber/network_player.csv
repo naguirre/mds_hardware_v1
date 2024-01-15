@@ -29,5 +29,5 @@ Comment,Designator,Footprint,LCSC
 "F1C100s","U1","Package_DFN_QFN:QFN-88_EP_10x10_Pitch0.4mm","C2879851"
 "W25N01GVZEIG","U3","Package_SON:WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm","C88868"
 "ESP32-C3-MINI-1","U4","espressif:ESP32-C3-MINI-1","C2838502"
-"EA3036","U6","Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm","C570857"
+"EA3036","U6","Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm","C570857"
 "24MHz","Y1","Crystal:Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm","C15643"

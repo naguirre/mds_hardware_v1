@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/nicolasaguirre/Documents/Projets/la_manufacture_du_son/hardware/network_player/network_player.kicad_sch</source>
-    <date>2024 January 07, Sunday 23:38:58</date>
+    <date>2024 January 15, Monday 08:56:21</date>
     <tool>Eeschema 7.0.2-0</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1101,7 +1101,7 @@
     </comp>
     <comp ref="U6">
       <value>EA3036</value>
-      <footprint>Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm</footprint>
+      <footprint>Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm</footprint>
       <fields>
         <field name="LCSC">C570857</field>
       </fields>
