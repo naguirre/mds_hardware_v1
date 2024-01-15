@@ -5167,6 +5167,12 @@
     (stroke (width 0.0381) (type default)) (layer "Edge.Cuts") (tstamp f4e0f7f6-416c-4da1-93a3-04cbd7316a66))
   (gr_arc (start 105.4354 46.7868) (mid 106.304268 44.651197) (end 108.432494 43.764414)
     (stroke (width 0.0381) (type default)) (layer "Edge.Cuts") (tstamp fadb892d-125d-4184-952e-a5a24e1cdf30))
+  (gr_text "La Manufacture du Son\nNetwork player v1.0" (at 129.13 105.86) (layer "B.SilkS") (tstamp 0ff31a09-d9cf-4a11-b5c0-2bb117aaa054)
+    (effects (font (size 1 1) (thickness 0.25) bold) (justify left bottom mirror))
+  )
+  (gr_text "Aguirre N.\n(c) 2024" (at 126.27 47.32) (layer "B.SilkS") (tstamp 7bae04ae-33ea-4249-90f9-c03b6cb29383)
+    (effects (font (size 1.524 1.524) (thickness 0.3048) bold) (justify left bottom mirror))
+  )
 
   (segment (start 107.46 92.35) (end 107.46 90.885) (width 0.127) (layer "F.Cu") (net 1) (tstamp 01355c00-2b0e-4b1e-bb07-4efb80c92bbc))
   (segment (start 113.69 65.33) (end 112.27 65.33) (width 0.127) (layer "F.Cu") (net 1) (tstamp 0265ae66-99f8-4690-8ab8-9ab39a0adfed))

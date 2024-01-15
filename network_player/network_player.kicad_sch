@@ -5757,7 +5757,7 @@
     (property "Value" "EA3036" (at 64.77 43.815 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.45mm_EP1.6x1.6mm" (at 68.58 53.975 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm" (at 68.58 53.975 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 68.58 53.975 0)
