@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
   <diagram name="Page-1" id="i9dnThPnfrLiiRXgVBJh">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-1" value="T113-s3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-2" value="eMMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-3" value="ESP32&lt;br&gt;Wifi / Bluetooth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-4" value="MIPI DSI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c_lRpv__dyTiCZB_LDVL-5" target="c_lRpv__dyTiCZB_LDVL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-5" value="Amplifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-9" value="Speakers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_lRpv__dyTiCZB_LDVL-10" target="c_lRpv__dyTiCZB_LDVL-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-10" value="Amplifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_lRpv__dyTiCZB_LDVL-11" value="Speakers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
